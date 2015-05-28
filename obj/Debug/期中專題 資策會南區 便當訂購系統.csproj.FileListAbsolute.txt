@@ -1,0 +1,55 @@
+c:\users\cheng\documents\visual studio 2012\Projects\期中專題 資策會南區 便當訂購系統\期中專題 資策會南區 便當訂購系統\bin\Debug\期中專題 資策會南區 便當訂購系統.exe.config
+c:\users\cheng\documents\visual studio 2012\Projects\期中專題 資策會南區 便當訂購系統\期中專題 資策會南區 便當訂購系統\bin\Debug\期中專題 資策會南區 便當訂購系統.exe
+c:\users\cheng\documents\visual studio 2012\Projects\期中專題 資策會南區 便當訂購系統\期中專題 資策會南區 便當訂購系統\bin\Debug\期中專題 資策會南區 便當訂購系統.pdb
+c:\users\cheng\documents\visual studio 2012\Projects\期中專題 資策會南區 便當訂購系統\期中專題 資策會南區 便當訂購系統\obj\Debug\期中專題 資策會南區 便當訂購系統.csprojResolveAssemblyReference.cache
+c:\users\cheng\documents\visual studio 2012\Projects\期中專題 資策會南區 便當訂購系統\期中專題 資策會南區 便當訂購系統\obj\Debug\期中專題_資策會南區_便當訂購系統.Form1.resources
+c:\users\cheng\documents\visual studio 2012\Projects\期中專題 資策會南區 便當訂購系統\期中專題 資策會南區 便當訂購系統\obj\Debug\期中專題_資策會南區_便當訂購系統.Properties.Resources.resources
+c:\users\cheng\documents\visual studio 2012\Projects\期中專題 資策會南區 便當訂購系統\期中專題 資策會南區 便當訂購系統\obj\Debug\期中專題 資策會南區 便當訂購系統.csproj.GenerateResource.Cache
+c:\users\cheng\documents\visual studio 2012\Projects\期中專題 資策會南區 便當訂購系統\期中專題 資策會南區 便當訂購系統\obj\Debug\期中專題 資策會南區 便當訂購系統.exe
+c:\users\cheng\documents\visual studio 2012\Projects\期中專題 資策會南區 便當訂購系統\期中專題 資策會南區 便當訂購系統\obj\Debug\期中專題 資策會南區 便當訂購系統.pdb
+C:\Users\cheng\documents\visual studio 2012\Projects\期中專題 資策會南區 便當訂購系統\期中專題 資策會南區 便當訂購系統\obj\Debug\期中專題_資策會南區_便當訂購系統.Form2.resources
+C:\Users\cheng\documents\visual studio 2012\Projects\期中專題 資策會南區 便當訂購系統\期中專題 資策會南區 便當訂購系統\obj\Debug\期中專題_資策會南區_便當訂購系統.Form3.resources
+C:\Users\iii\Desktop\Projects\期中專題 資策會南區 便當訂購系統\期中專題 資策會南區 便當訂購系統\bin\Debug\期中專題 資策會南區 便當訂購系統.exe.config
+C:\Users\iii\Desktop\Projects\期中專題 資策會南區 便當訂購系統\期中專題 資策會南區 便當訂購系統\obj\Debug\期中專題 資策會南區 便當訂購系統.exe
+C:\Users\iii\Desktop\Projects\期中專題 資策會南區 便當訂購系統\期中專題 資策會南區 便當訂購系統\obj\Debug\期中專題 資策會南區 便當訂購系統.pdb
+C:\Users\iii\Desktop\Projects\期中專題 資策會南區 便當訂購系統\期中專題 資策會南區 便當訂購系統\bin\Debug\期中專題 資策會南區 便當訂購系統.exe
+C:\Users\iii\Desktop\Projects\期中專題 資策會南區 便當訂購系統\期中專題 資策會南區 便當訂購系統\bin\Debug\期中專題 資策會南區 便當訂購系統.pdb
+C:\Users\iii\Desktop\Projects\期中專題 資策會南區 便當訂購系統\期中專題 資策會南區 便當訂購系統\obj\Debug\期中專題 資策會南區 便當訂購系統.csprojResolveAssemblyReference.cache
+C:\Users\iii\Desktop\Projects\期中專題 資策會南區 便當訂購系統\期中專題 資策會南區 便當訂購系統\obj\Debug\期中專題_資策會南區_便當訂購系統.Form1.resources
+C:\Users\iii\Desktop\Projects\期中專題 資策會南區 便當訂購系統\期中專題 資策會南區 便當訂購系統\obj\Debug\期中專題_資策會南區_便當訂購系統.Form2.resources
+C:\Users\iii\Desktop\Projects\期中專題 資策會南區 便當訂購系統\期中專題 資策會南區 便當訂購系統\obj\Debug\期中專題_資策會南區_便當訂購系統.Form3.resources
+C:\Users\iii\Desktop\Projects\期中專題 資策會南區 便當訂購系統\期中專題 資策會南區 便當訂購系統\obj\Debug\期中專題_資策會南區_便當訂購系統.Properties.Resources.resources
+C:\Users\iii\Desktop\Projects\期中專題 資策會南區 便當訂購系統\期中專題 資策會南區 便當訂購系統\obj\Debug\期中專題 資策會南區 便當訂購系統.csproj.GenerateResource.Cache
+C:\Users\cheng\Desktop\Projects\期中專題 資策會南區 便當訂購系統\期中專題 資策會南區 便當訂購系統\bin\Debug\期中專題 資策會南區 便當訂購系統.exe.config
+C:\Users\cheng\Desktop\Projects\期中專題 資策會南區 便當訂購系統\期中專題 資策會南區 便當訂購系統\obj\Debug\期中專題 資策會南區 便當訂購系統.exe
+C:\Users\cheng\Desktop\Projects\期中專題 資策會南區 便當訂購系統\期中專題 資策會南區 便當訂購系統\obj\Debug\期中專題 資策會南區 便當訂購系統.pdb
+C:\Users\cheng\Desktop\Projects\期中專題 資策會南區 便當訂購系統\期中專題 資策會南區 便當訂購系統\bin\Debug\期中專題 資策會南區 便當訂購系統.exe
+C:\Users\cheng\Desktop\Projects\期中專題 資策會南區 便當訂購系統\期中專題 資策會南區 便當訂購系統\bin\Debug\期中專題 資策會南區 便當訂購系統.pdb
+C:\Users\cheng\Desktop\Projects\期中專題 資策會南區 便當訂購系統\期中專題 資策會南區 便當訂購系統\obj\Debug\期中專題 資策會南區 便當訂購系統.csprojResolveAssemblyReference.cache
+C:\Users\cheng\Desktop\Projects\期中專題 資策會南區 便當訂購系統\期中專題 資策會南區 便當訂購系統\obj\Debug\期中專題_資策會南區_便當訂購系統.Form1.resources
+C:\Users\cheng\Desktop\Projects\期中專題 資策會南區 便當訂購系統\期中專題 資策會南區 便當訂購系統\obj\Debug\期中專題_資策會南區_便當訂購系統.Form2.resources
+C:\Users\cheng\Desktop\Projects\期中專題 資策會南區 便當訂購系統\期中專題 資策會南區 便當訂購系統\obj\Debug\期中專題_資策會南區_便當訂購系統.Form3.resources
+C:\Users\cheng\Desktop\Projects\期中專題 資策會南區 便當訂購系統\期中專題 資策會南區 便當訂購系統\obj\Debug\期中專題_資策會南區_便當訂購系統.Properties.Resources.resources
+C:\Users\cheng\Desktop\Projects\期中專題 資策會南區 便當訂購系統\期中專題 資策會南區 便當訂購系統\obj\Debug\期中專題 資策會南區 便當訂購系統.csproj.GenerateResource.Cache
+C:\Users\cheng\Desktop\Projects\期中專題 資策會南區 便當訂購系統\期中專題 資策會南區 便當訂購系統\obj\Debug\期中專題_資策會南區_便當訂購系統.Form4.resources
+C:\Users\cheng\Desktop\Projects\期中專題 資策會南區 便當訂購系統\期中專題 資策會南區 便當訂購系統\obj\Debug\期中專題_資策會南區_便當訂購系統.Form5.resources
+C:\Users\cheng\Desktop\Projects\期中專題 資策會南區 便當訂購系統\期中專題 資策會南區 便當訂購系統\obj\Debug\期中專題_資策會南區_便當訂購系統.Form6.resources
+C:\Users\iii\Desktop\Projects\期中專題 資策會南區 便當訂購系統\期中專題 資策會南區 便當訂購系統\obj\Debug\期中專題_資策會南區_便當訂購系統.Form4.resources
+C:\Users\iii\Desktop\Projects\期中專題 資策會南區 便當訂購系統\期中專題 資策會南區 便當訂購系統\obj\Debug\期中專題_資策會南區_便當訂購系統.Form5.resources
+C:\Users\iii\Desktop\Projects\期中專題 資策會南區 便當訂購系統\期中專題 資策會南區 便當訂購系統\obj\Debug\期中專題_資策會南區_便當訂購系統.Form6.resources
+C:\Users\cheng\Desktop\Projects\期中專題 資策會南區 便當訂購系統\期中專題 資策會南區 便當訂購系統\obj\Debug\期中專題_資策會南區_便當訂購系統.Form7.resources
+C:\Users\iii\Desktop\Final 期中Projects\Projects\期中專題 資策會南區 便當訂購系統\期中專題 資策會南區 便當訂購系統\bin\Debug\期中專題 資策會南區 便當訂購系統.exe.config
+C:\Users\iii\Desktop\Final 期中Projects\Projects\期中專題 資策會南區 便當訂購系統\期中專題 資策會南區 便當訂購系統\obj\Debug\期中專題 資策會南區 便當訂購系統.exe
+C:\Users\iii\Desktop\Final 期中Projects\Projects\期中專題 資策會南區 便當訂購系統\期中專題 資策會南區 便當訂購系統\obj\Debug\期中專題 資策會南區 便當訂購系統.pdb
+C:\Users\iii\Desktop\Final 期中Projects\Projects\期中專題 資策會南區 便當訂購系統\期中專題 資策會南區 便當訂購系統\bin\Debug\期中專題 資策會南區 便當訂購系統.exe
+C:\Users\iii\Desktop\Final 期中Projects\Projects\期中專題 資策會南區 便當訂購系統\期中專題 資策會南區 便當訂購系統\bin\Debug\期中專題 資策會南區 便當訂購系統.pdb
+C:\Users\iii\Desktop\Final 期中Projects\Projects\期中專題 資策會南區 便當訂購系統\期中專題 資策會南區 便當訂購系統\obj\Debug\期中專題 資策會南區 便當訂購系統.csprojResolveAssemblyReference.cache
+C:\Users\iii\Desktop\Final 期中Projects\Projects\期中專題 資策會南區 便當訂購系統\期中專題 資策會南區 便當訂購系統\obj\Debug\期中專題_資策會南區_便當訂購系統.Form1.resources
+C:\Users\iii\Desktop\Final 期中Projects\Projects\期中專題 資策會南區 便當訂購系統\期中專題 資策會南區 便當訂購系統\obj\Debug\期中專題_資策會南區_便當訂購系統.Form2.resources
+C:\Users\iii\Desktop\Final 期中Projects\Projects\期中專題 資策會南區 便當訂購系統\期中專題 資策會南區 便當訂購系統\obj\Debug\期中專題_資策會南區_便當訂購系統.Form3.resources
+C:\Users\iii\Desktop\Final 期中Projects\Projects\期中專題 資策會南區 便當訂購系統\期中專題 資策會南區 便當訂購系統\obj\Debug\期中專題_資策會南區_便當訂購系統.Form4.resources
+C:\Users\iii\Desktop\Final 期中Projects\Projects\期中專題 資策會南區 便當訂購系統\期中專題 資策會南區 便當訂購系統\obj\Debug\期中專題_資策會南區_便當訂購系統.Form5.resources
+C:\Users\iii\Desktop\Final 期中Projects\Projects\期中專題 資策會南區 便當訂購系統\期中專題 資策會南區 便當訂購系統\obj\Debug\期中專題_資策會南區_便當訂購系統.Form6.resources
+C:\Users\iii\Desktop\Final 期中Projects\Projects\期中專題 資策會南區 便當訂購系統\期中專題 資策會南區 便當訂購系統\obj\Debug\期中專題_資策會南區_便當訂購系統.Form7.resources
+C:\Users\iii\Desktop\Final 期中Projects\Projects\期中專題 資策會南區 便當訂購系統\期中專題 資策會南區 便當訂購系統\obj\Debug\期中專題_資策會南區_便當訂購系統.Properties.Resources.resources
+C:\Users\iii\Desktop\Final 期中Projects\Projects\期中專題 資策會南區 便當訂購系統\期中專題 資策會南區 便當訂購系統\obj\Debug\期中專題 資策會南區 便當訂購系統.csproj.GenerateResource.Cache
